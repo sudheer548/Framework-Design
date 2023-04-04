@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="InetbankinggV1">
+	<test name="banking App">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.inetbanking.testCases.TestCase_001" />
+
+		</classes>
+	</test>
+</suite>
